@@ -1,0 +1,93 @@
+/*
+  Estudiante: Jennifer Elizabeth Quizhpe
+  Ciclo: Quinto "A"
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css');
+
+* {
+    box-sizing: border-box;
+}
+
+.btn-primary {
+    border: 1px solid #b12bff;
+    background-color: #8d0899;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
+    border-radius: 12px;
+}
+
+.container-video {
+    background-color: #000;
+    border-radius: 30px;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25),
+        0 10px 10px rgba(0, 0, 0, 0.22);
+    position: relative;
+    overflow: hidden;
+    width: 380px;
+    max-width: 100%;
+    height: 100%;
+    margin-top: 5px;
+}
+
+.mx-auto {
+    text-align: center;
+    margin-right: auto !important;
+    margin-left: auto !important;
+}
+
+.btn-danger {
+    color: #FFFFFF;
+    border-radius: 12px;
+    border: 1px solid #cc3535;
+    background-color: #aa0404;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
+    margin-bottom: 10px;
+}
+
+.bg-dark {
+    border-radius: 12px;
+    border: 1px solid #2b4bff;
+    background-color: rgb(37, 48, 167);
+    text-decoration-color: white;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
+}
+
+video {
+    /* override other styles to make responsive */
+    width: 100% !important;
+    height: auto !important;
+}
+button:active {
+    transform: scale(0.95);
+}
+
+button:focus {
+    outline: none;
+}
+button {
+    border-radius: 18px;
+    background-color: #ffffffcc;
+    color: #FFFFFF;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 12px 15px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
+}
+
+button:hover {
+    border-radius: 10px;
+    background-color: #fff7f6;
+    color: #c50000cc;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 12px 15px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
+    animation-name: mostrarupload;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}

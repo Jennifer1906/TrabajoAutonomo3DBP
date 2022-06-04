@@ -1,0 +1,117 @@
+* {
+    font-family: 'Fraunces', serif;
+    color: #fff;
+}
+
+body {
+    margin: 0;
+    background: linear-gradient(rgba(153, 151, 151, 0.762),rgba(153, 151, 151, 0.762)), url(media/unl1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+    font-family: 'Times New Roman', Times, serif;
+    
+    font-weight: bold;
+}
+h1 {
+    
+    font-size: 70px;
+    font-family:'Times New Roman', Times, serif, cursive;
+    letter-spacing: 2px;
+    background: #ccc;
+    background: linear-gradient(90deg, #020036, #0059df,#020036);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    margin-left: 250px;
+    margin-top: 20px;
+}
+.contenedor {
+    position: relative;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: space-evenly;
+    justify-items: center;
+    height: 100vh;
+    margin-top: -90px;
+}
+
+.calculadora {
+    display: grid;
+    grid-template-columns: repeat(4, 75px);
+    grid-template-rows: 100px repeat(5, 75px);
+    background-color: #485ecc;
+}
+
+button {
+    cursor: pointer;
+    margin: 5px;
+    border-radius: 50%;
+    font-size: 1.5em;
+    border: none;
+    background-color: rgb(0, 0, 0);
+}
+
+button:active {
+    background-color: #555555;
+}
+
+button:focus {
+    outline: none;
+}
+
+.display {
+    grid-column: 1 / -1;
+    padding: 16px;
+    display: flex;
+    margin: 10px 20px;
+    flex-direction: column;
+    align-items: flex-end;
+    text-align: right;
+    justify-content: space-between;
+    word-break: break-all;
+    background-color: #5268d7;
+}
+
+.dobleColumna {
+    grid-column: span 2;
+    border-radius: 20px;
+}
+
+.operador {
+    color: #ffffff;
+}
+.operador:hover{
+    border-radius: 40px;
+    box-shadow: 0 0 5px #76abd0, 0 0 25px #76abd0, 0 0 50px #76abd0, 0 0 100px #76abd0;
+}
+.complementarios {
+    color: #ffffff;
+}
+.complementarios:hover{
+    border-radius: 40px;
+    box-shadow: 0 0 5px #cacaca, 0 0 25px #cacaca, 0 0 50px #cacaca, 0 0 100px #cacaca;
+}
+.igual {
+    color: #fff;
+    background-color: #700202;
+}
+.igual:hover{
+    background-color: #cd1f1f;
+    border-radius: 40px;
+    box-shadow: 0 0 5px #bf3131, 0 0 25px #bf3131, 0 0 50px #bf3131, 0 0 100px #bf3131;
+}
+#valorActual {
+    font-size: 1.5em;
+}
+
+#valorAnterior {
+    font-size: 2em;
+}
+
+.input {
+    border-radius: 12px;
+    background-color: #DB7C26;
+    color: #000;
+    font-size: 24px;
+    border: none;
+}

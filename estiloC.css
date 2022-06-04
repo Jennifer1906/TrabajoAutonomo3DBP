@@ -1,0 +1,88 @@
+/*
+  Estudiante: Jennifer Elizabeth Quizhpe
+  Ciclo: Quinto "A"
+*/
+
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif;
+    background: linear-gradient(rgba(153, 151, 151, 0.762),rgba(153, 151, 151, 0.762)), url(media/unl1.jpg);
+    /*background: linear-gradient(#9696c3, #0a0db7);*/
+    font-size: 22px;
+}
+div{
+    background-color: rgba(204, 212, 216, 0.895);
+    border: 1px solid rgb(0, 0, 0);
+    padding: 12px;
+    width: 60%;
+    margin: 0 auto;
+}
+
+fieldset{
+    margin-bottom: 12px;
+}
+
+legend{
+    background-color: #020f6d;
+    border-color: #1a53ef;
+    padding: 5px;
+    border-radius: 20px;
+    font-size: 25px;
+    color: white;
+    height: 40px;
+    width: 70p;
+}
+
+img{
+    border-radius: 30%;
+    margin-bottom: 12px;
+    margin-right: 30px;
+    width: 130px;
+    height: 130px;
+    float: left;
+    margin-left: 70px;
+}
+span{
+    font-weight: bold;
+    font-size: 23px;
+}
+h1 {
+    
+    font-size: 70px;
+    font-family:'Times New Roman', Times, serif, cursive;
+    letter-spacing: 2px;
+    background: #ccc;
+    background: linear-gradient(90deg, #020036, #0059df,#020036);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+.input {
+    width: 20%;
+    height: 30px;
+    margin: 20px;
+    border: solid thin rgb(5, 1, 83);
+    padding: .7rem;
+    border-radius: 18px;
+    background-color: rgb(255, 255, 255);
+    font-weight: 600;
+    margin-top: -10px;
+    font-size: .8rem;
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    transition: all .3s ease-in;
+}
+.input:hover {
+    background-color: #4d74ff;
+    border-radius: 18px;
+    box-shadow: 0 0 5px #4d74ff, 0 0 25px #4d74ff, 0 0 50px #4d74ff, 0 0 100px #4d74ff;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-family: 15px;
+}

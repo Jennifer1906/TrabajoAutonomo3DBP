@@ -1,0 +1,97 @@
+body {
+    background: linear-gradient(rgba(153, 151, 151, 0.762),rgba(153, 151, 151, 0.762)), url(media/UNL.jpeg);
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    flex-direction: row-reverse;
+    
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 450px;
+    background: #ccc;
+    background: linear-gradient(90deg, #020036, #0059df,#020036);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+h3{
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.contenedor {
+    width: 50%;
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row-reverse;
+    margin-left: 60px;
+    margin-top: -70px;
+}
+
+.contenedor .card {
+    position: relative;
+    cursor: pointer;
+}
+
+.contenedor .card .cara {
+    width: 287px;
+    height: 500px;
+    transition: 0.5s;
+}
+
+.contenedor .card .cara.card1 {
+    position: relative;
+    background: rgb(18, 52, 165);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+    transform: translateY(200px);
+    color: white;
+}
+
+.contenedor .card:hover .cara.card1 {
+    background: #020e5f;
+    transform: translateY(0);
+}
+
+.contenedor .card .cara.card1 .contenido {
+    opacity: 0.2;
+    transition: 0.5s;
+}
+
+.contenedor .card:hover .cara.card1 .contenido {
+    opacity: 1;
+}
+
+.contenedor .card .cara.card1 .contenido h3 {
+    margin: 10px 0 0 0;
+    padding: 0;
+    color: #fff;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.contenedor .card .cara.card2 {
+    position: relative;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    box-sizing: border-box;
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);
+    transform: translateY(-300px);
+}
+
+.contenedor .card:hover .cara.card2 {
+    transform: translateY(0);
+}
+
+.contenedor .card .cara.card2 .contenido p {
+    margin: 0;
+    padding: 0;
+}

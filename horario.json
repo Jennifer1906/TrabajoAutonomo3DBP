@@ -1,0 +1,103 @@
+
+[
+    {
+        "hora" : "5:45 <br> 7:00",
+        "lunes" : "Hacer desayuno <br> Desayunar <br> Aseo personal",
+        "martes" : "Hacer desayuno <br> Desayunar <br> Aseo personal",
+        "miercoles" : "Hacer desayuno <br> Desayunar <br> Aseo personal",
+        "jueves" : "Hacer desayuno <br> Desayunar <br> Aseo personal",
+        "viernes" : "Hacer desayuno <br> Desayunar <br> Aseo personal",
+        "sabado" : "Hacer desayuno <br> Desayunar <br> Aseo personal",
+        "domingo" : "Descansar"
+    },
+    {
+        "hora" : "7:30 <br> 9:30",
+        "lunes" : "Sistemas Digitales",
+        "martes" : "Desarrollo Basado en Plataformas",
+        "miercoles" : "Fundamento de Redes",
+        "jueves" : "Simulación",
+        "viernes" : "Sistemas Digitales",
+        "sabado" : "Trabajar",
+        "domingo" : "Descansar <br> Desayunar"
+    },
+    {
+        "hora" : "9:30 <br> 11:30",
+        "lunes" : "Análisis Numérico",
+        "martes" : "Fundamento de Redes",
+        "miercoles" : "Desarrollo Basado en Plataformas",
+        "jueves" : "Análisis Numérico",
+        "viernes" : "Análisis Numérico",
+        "sabado" : "Trabajar",
+        "domingo" : "Pasar tiempo con mi niño"
+    },
+    {
+        "hora" : "11:30 <br> 13:30",
+        "lunes" : "Desarrollo Basado en Plataformas",
+        "martes" : "Sistemas Digitales",
+        "miercoles" : "Simulación",
+        "jueves" : "Desarrollo Basado en Plataformas",
+        "viernes" : "Simulación",
+        "sabado" : "Trabajar",
+        "domingo" : "Pasar tiempo con mi niño"
+    },
+    {
+        "hora" : "15:00 <br> 16:00",
+        "lunes" : "Arreglar hogar",
+        "martes" : "Arreglar hogar",
+        "miercoles" : "Arreglar hogar",
+        "jueves" : "Arreglar hogar",
+        "viernes" : "Arreglar hogar",
+        "sabado" : "Arreglar hogar",
+        "domingo" : "Pasar tiempo con mi niño"
+    },
+    {
+        "hora" : "16:00 <br> 17:30",
+        "lunes" : "Tareas U",
+        "martes" : "Tareas U",
+        "miercoles" : "Escuela de mi niño",
+        "jueves" : "Tareas U",
+        "viernes" : "Tareas U",
+        "sabado" : "Tareas U",
+        "domingo" : "Pasar tiempo con mi niño"
+    },
+    {
+        "hora" : "17:30 <br> 19:00",
+        "lunes" : "Tareas U",
+        "martes" : "Tareas U",
+        "miercoles" : "Tareas U",
+        "jueves" : "Tareas de mi niño",
+        "viernes" : "Tareas U",
+        "sabado" : "Tareas U",
+        "domingo" : "Pasar tiempo con mi niño"
+    },
+    {
+        "hora" : "19:00 <br> 21:00",
+        "lunes" : "Cocinar <br> Merendar <br> Arreglar cocina <br> Aseo personal",
+        "martes" : "Cocinar <br> Merendar <br> Arreglar cocina <br> Aseo personal",
+        "miercoles" : "Cocinar <br> Merendar <br> Arreglar cocina <br> Aseo personal",
+        "jueves" : "Cocinar <br> Merendar <br> Arreglar cocina <br> Aseo personal",
+        "viernes" : "Cocinar <br> Merendar <br> Arreglar cocina <br> Aseo personal",
+        "sabado" : "Cocinar <br> Merendar <br> Arreglar cocina <br> Aseo personal",
+        "domingo" : "Cocinar <br> Merendar <br> Arreglar cocina <br> Aseo personal"
+    },
+    {
+        "hora" : "21:00 <br> 22:00",
+        "lunes" : "Tareas U",
+        "martes" : "Tareas U",
+        "miercoles" : "Tareas U",
+        "jueves" : "Tareas U",
+        "viernes" : "Tareas U",
+        "sabado" : "Tareas U",
+        "domingo" : "Tareas U"
+    },
+    {
+        "hora" : "22:00 ",
+        "lunes" : "Descansar",
+        "martes" : "Descansar",
+        "miercoles" : "Descansar",
+        "jueves" : "Descansar",
+        "viernes" : "Descansar",
+        "sabado" : "Descansar",
+        "domingo" : "Descansar"
+    }
+]

@@ -1,0 +1,63 @@
+/*
+  Estudiante: Jennifer Elizabeth Quizhpe
+  Ciclo: Quinto "A"
+*/
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif;
+    background: linear-gradient(rgba(153, 151, 151, 0.762),rgba(153, 151, 151, 0.762)), url(media/UNL.jpeg);
+    /*background: linear-gradient(#9696c3, #0a0db7);*/
+    background-repeat: no-repeat;
+    background-size: cover ;
+    font-size: 30px;
+    font-weight: normal;
+
+}
+
+
+table {
+    width: 80%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-color: rgb(184, 195, 206);
+    background-color: rgb(202, 206, 215);
+    margin-left: 180px;
+    margin-top: 70px;
+    font-weight: normal;
+    
+}
+
+table,
+tr,
+th,
+td {
+    border: 1px solid rgb(2, 4, 80);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+td {
+    border: 1px solid rgb(2, 4, 80);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+th{
+    border: 1px solid rgb(2, 4, 80);
+    text-align: center;
+    font-size: 27px;
+    font-weight: bold;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 80px;
+    text-align: center;
+    margin: 0;
+    margin-top: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+}

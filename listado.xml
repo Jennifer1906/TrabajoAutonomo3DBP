@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Estudiantes>
+    
+
+    <Estudiante>
+        <id> 2 </id>
+        <nombres>Anndy Josue </nombres>
+        <apellidos>Camacho Romero</apellidos>
+        <edad>23</edad>
+        <cedula> 1105653164</cedula>
+        <paralelo>A </paralelo>
+    </Estudiante>
+
+    <Estudiante>
+        <id> 3 </id>
+        <nombres>Alexander Richard </nombres>
+        <apellidos>Cañar Rodriguez</apellidos>
+        <edad>22</edad>
+        <cedula> 1150275517</cedula>
+        <paralelo>A </paralelo>
+    </Estudiante>
+
+    <Estudiante>
+        <id> 4 </id>
+        <nombres> María de los Angeles </nombres>
+        <apellidos>Castillo Luzuriaga</apellidos>
+        <edad>24</edad>
+        <cedula> 1105653156</cedula>
+        <paralelo>A </paralelo>
+    </Estudiante>
+
+    <Estudiante>
+        <id> 5 </id>
+        <nombres>Luis Daniel </nombres>
+        <apellidos>Cobos Arevalo</apellidos>
+        <edad>19</edad>
+        <cedula> 1150478364</cedula>
+        <paralelo>A </paralelo>
+    </Estudiante>
+
+    <Estudiante>
+        <id> 6 </id>
+        <nombres> Gari Roberto </nombres>
+        <apellidos>Coronel Lojan</apellidos>
+        <edad>21</edad>
+        <cedula> 1102805239</cedula>
+        <paralelo>A </paralelo>
+    </Estudiante>
+
+    <Estudiante>
+        <id> 7 </id>
+        <nombres> Jose Sebastian </nombres>
+        <apellidos>Gomez Maldonado</apellidos>
+        <edad>20</edad>
+        <cedula> 1102832548</cedula>
+        <paralelo>A</paralelo>
+    </Estudiante>
+   
+    <Estudiante>
+        <id> 8 </id>
+        <nombres>Widinson Salvador </nombres>
+        <apellidos>Gonzalez Maza</apellidos>
+        <edad>25</edad>
+        <cedula> 1150479876</cedula>
+        <paralelo> A</paralelo>
+    </Estudiante>
+    
+    <Estudiante>
+        <id> 9</id>
+        <nombres>Jennifer Elizabeth </nombres>
+        <apellidos>Quizhpe Hurtado</apellidos>
+        <edad>22</edad>
+        <cedula> 1105653172</cedula>
+        <paralelo>A </paralelo>
+    </Estudiante>
+
+     <Estudiante>
+        <id> 10 </id>
+        <nombres> Manuel Gabriel </nombres>
+        <apellidos>Sanchez Galvan</apellidos>
+        <edad>20</edad>
+        <cedula> 1102832548</cedula>
+        <paralelo>A</paralelo>
+    </Estudiante>
+     <Estudiante>
+        <id> 11 </id>
+        <nombres> Luis Antonio </nombres>
+        <apellidos>Hurtado Marquez</apellidos>
+        <edad>20</edad>
+        <cedula> 1102832548</cedula>
+        <paralelo>A</paralelo>
+    </Estudiante>
+</Estudiantes>
